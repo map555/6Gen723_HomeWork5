@@ -1,0 +1,6 @@
+﻿  ClientInjecterSource.cpp
+c:\users\map55\desktop\reseau\tp5-v2\clientinjecter\clientinjecter\clientinjectersource.cpp(258): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\map55\desktop\reseau\tp5-v2\clientinjecter\clientinjecter\clientinjectersource.cpp(234): warning C4101: 'injectedProgramNameRecvBuf' : variable locale non référencée
+c:\users\map55\desktop\reseau\tp5-v2\clientinjecter\clientinjecter\clientinjectersource.cpp(233): warning C4101: 'iSendResult' : variable locale non référencée
+  ClientInjecter.vcxproj -> C:\Users\map55\Desktop\RESEAU\TP5-V2\ClientInjecter\Debug\ClientInjecter.exe
+  ClientInjecter.vcxproj -> C:\Users\map55\Desktop\RESEAU\TP5-V2\ClientInjecter\Debug\ClientInjecter.pdb (Partial PDB)
