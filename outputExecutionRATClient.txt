@@ -1,0 +1,321 @@
+WSAStartup ran successfully
+getaddrinfo ran successfully.
+socket ran successfully.
+bind ran successfully.
+listening...
+accept ran successfully.
+The client is connected to server.
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 7
+
+Please enter the name of the file (with the extension): goose.jpg
+
+Program sent successfully.
+goose.jpg was received and written on disk successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 7
+
+Please enter the name of the file (with the extension): goose.jpg
+
+Program sent successfully.
+goose.jpg was received and written on disk successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 0
+
+ Le volume dans le lecteur C s'appelle Windows
+ Le numéro de série du volume est B0B1-986B
+
+ Répertoire de C:\Users\Marc\Desktop
+
+2020-04-21  15:01    <DIR>          .
+2020-04-21  15:01    <DIR>          ..
+2020-04-19  20:48    <DIR>          Files
+2020-04-21  15:01            42 971 goose.jpg
+2020-04-11  19:11            16 896 ServerInjecter.exe
+2020-04-21  14:04            37 888 serverRAT.exe
+2020-04-19  21:21             2 199 Slack.lnk
+               4 fichier(s)           99 954 octets
+               3 Rép(s)  19 744 542 720 octets libres
+
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 2
+
+Please enter the name of the new directory: test
+
+Directory "test" created successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 3
+
+Please enter the name of the directory to remove: test
+
+Directory "test" removed successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 5
+
+Please enter the name of the file to execute (with the file extension): Wireshark.exe
+
+Program started
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 5
+
+Please enter the name of the file to execute (with the file extension): Slack.lnk
+
+Program started
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 4
+
+Please enter the name of the file to delete (with the file extension): goose.jpg
+
+The file "goose.jpg" was deleted successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 6
+
+Please enter the name of the new txt file (without the extension): patate
+
+File created
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 7
+
+Please enter the name of the file (with the extension): goose.jpg
+
+Program sent successfully.
+goose.jpg was received and written on disk successfully
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 8
+
+Please enter the name of the file (with the extension): goose.jpg
+
+Program sent successfully
+goose.jpg was received and written successfully on the current directory of the disk
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 10
+
+Please enter the paramter required for the chdir command: \
+
+Current directory on YOUR MACHINE: C:\
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 1
+
+Please enter the parameter required for the chdir command: \
+
+Current directory ON THE SERVER: C:\
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 0
+
+ Le volume dans le lecteur C s'appelle Windows
+ Le numéro de série du volume est B0B1-986B
+
+ Répertoire de C:\
+
+2019-10-06  15:18    <DIR>          $WINDOWS.~BT
+2019-10-18  13:31    <DIR>          adb
+2019-10-06  15:19    <DIR>          Android
+2019-10-06  13:54    <DIR>          androidsdk
+2019-09-04  15:20    <DIR>          ESD
+2019-07-08  21:59    <DIR>          found.000
+2020-04-15  16:20    <DIR>          Program Files
+2020-04-18  16:30    <DIR>          Program Files (x86)
+2019-08-13  10:58    <DIR>          Python
+2019-10-06  16:05    <DIR>          tools
+2019-06-21  06:17    <DIR>          Users
+2020-04-18  16:30    <DIR>          Windows
+               0 fichier(s)                0 octets
+              12 Rép(s)  19 691 274 240 octets libres
+
+
+Choose an operation to execute on the RAT server:
+        0-  dir
+        1-  chdir (on the server)
+        2-  mkdir
+        3-  rmdir
+        4-  del
+        5-  start
+        6-  Create a text file
+        7-  Send a file
+        8-  Receive a file
+        9-  Logout
+        10- chdir on your local machine
+
+Enter your choice: 9
